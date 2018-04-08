@@ -1,0 +1,4 @@
+All .png files are the sprites to e used.
+All .ai files are for Adobe Illustrator.
+All .svg files for further use (just in case).
+All .swf will be used as substitutions of .png files.
